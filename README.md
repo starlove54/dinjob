@@ -1,6 +1,7 @@
+
 # Dinjob
 
-React Native Job Search App
+A React Native Job Search App
 
 ## Description
 
@@ -47,9 +48,8 @@ git clone https://github.com/starlove54/dinjob.git
 ```bash
 cd dinjob
 ```
-cd react-native-job-search-app
 
-yarn
+
 
 3. Run the app:
 
@@ -58,11 +58,7 @@ npm start
 ```
   
 
-bash
 
-Copy code
-
-yarn start
 
 ## Usage
 
