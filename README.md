@@ -1,8 +1,7 @@
 ![banner](assets/images/banner.png)
 # Dinjob
 
-A React Native Job Search App
-
+A react native job search app
 ## Description
 
 The React Native Job Search App is a 3-page application that helps users find developer jobs by dynamically fetching data from jsearch rapid api. The app allows users to browse developer jobs from popular platforms such as LinkedIn, Glassdoor, and more.
