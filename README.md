@@ -1,4 +1,4 @@
-
+![banner](assets/images/banner.png)
 # Dinjob
 
 A React Native Job Search App
